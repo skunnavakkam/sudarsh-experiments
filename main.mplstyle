@@ -1,0 +1,22 @@
+# super high dpi
+figure.dpi: 300
+
+# use space mono
+font.family: DejaVu Sans Mono
+
+# remove borders
+axes.spines.top: false
+axes.spines.right: false
+
+# remove left border
+axes.spines.left: false
+
+# remove left axis ticks
+ytick.left: false
+
+# add horizontal grid
+axes.grid.axis: y
+
+# title left align
+axes.titlelocation: left
+
